@@ -12,4 +12,7 @@ I am Swastik Kumar, a Computer Engineering student with a strong interest in Dat
 ![](https://streak-stats.demolab.com/?user=SwastikAnalytics&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SwastikAnalytics&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=SwastikAnalytics&icon=1&color=12)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
