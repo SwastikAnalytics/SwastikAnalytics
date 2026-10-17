@@ -11,23 +11,38 @@
 
 ## 🏆 Featured Projects
 
-### 📊 Supermarket Sales Analysis
-- Analyzed sales transactions using Python and Pandas.
-- Identified top-performing products and sales trends.
-- Created visualizations to understand customer purchasing patterns.
-- Developed insights to support business decisions.
+### 📊 1. Superstore Sales Dashboard (Microsoft Excel)
+- Cleaned and analyzed retail sales data using Microsoft Excel.
+- Created an interactive dashboard using Pivot Tables, Pivot Charts, and Slicers.
+- Analyzed sales trends, regional performance, customer segments, and shipping modes.
+- Tracked KPIs such as Total Sales, Average Sales, Total Transactions, and Total Quantity Sold.
+- Identified business insights to support sales performance monitoring and data-driven decision-making.
 
-### 🏦 Banking Data Analysis
-- Analyzed banking transactions using SQL.
-- Identified transaction patterns and customer behaviour.
-- Evaluated banking performance using key metrics.
-- Created reports to support data-driven decisions.
+### 📧 2. Gmail Excel Attachment Automation (Google Apps Script & Power Query)
+- Automated the process of retrieving Excel attachments from Gmail using Google Apps Script.
+- Integrated Gmail attachments with Microsoft Excel Power Query to import and process data.
+- Combined data from multiple Excel files into a single consolidated dataset.
+- Applied Power Query transformations to extract and organize data from Excel attachments.
+- Created a repeatable workflow to simplify data collection and reduce manual effort.
+- Prepared consolidated data for further analysis and reporting.
 
-### 👥 HR Analytics Dashboard
-- Analyzed employee data using Excel and Power BI.
-- Studied employee attrition and department-wise performance.
-- Created interactive dashboards with KPIs.
-- Visualized workforce trends for better decision-making.
+### 🍔 3. Zomato Food Delivery Dashboard (Microsoft Power BI)
+- Cleaned and analyzed food delivery data using Microsoft Excel and Power BI.
+- Created an interactive dashboard to monitor food orders, sales, and restaurant performance.
+- Analyzed customer ratings, popular cuisines, restaurant locations, and order trends.
+- Tracked KPIs such as Total Orders, Total Revenue, Average Order Value, and Average Customer Rating.
+- Identified business insights to understand customer preferences, restaurant performance, and food delivery trends for data-driven decision-making.
+
+### 🚚 Supply Chain Delivery Performance & Risk Analysis (Python, SQL & Power BI)
+
+- Cleaned, transformed, and analyzed 172,765 e-commerce orders to evaluate end-to-end supply chain delivery performance.
+- Analyzed delivery KPIs, including Late Delivery Rate (54.71%), On-Time Delivery Rate (45.29%), and Profit at Risk ($2.1M).
+- Identified operational bottlenecks across shipping modes, regions, payment types, customer segments, and product departments.
+- Evaluated profitability trends, delay patterns, and seasonal delivery performance to identify areas for operational improvement.
+- Developed a Random Forest classification model achieving 74% accuracy to predict late-delivery risk.
+- Generated data-driven recommendations to improve delivery reliability, optimize shipping operations, and protect profitability.
+
+
 
 ---
 
@@ -50,19 +65,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
 ---
 
 ## 📬 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- 📧 Email: your-email@example.com
-- 🐙 GitHub: [My GitHub Profile](https://github.com/YOUR_USERNAME)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/swastik-kumar-01sep)
+- 📧 Email: kumarswastik981@gmail.com
+- 🐙 GitHub: [My GitHub Profile](https://github.com/SwastikAnalytics)
 
 ---
 
